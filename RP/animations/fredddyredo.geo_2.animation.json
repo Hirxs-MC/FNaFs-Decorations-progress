@@ -1,0 +1,67 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.freddy.pose": {
+			"loop": true,
+			"bones": {
+				"upperpart": {
+					"rotation": [10, 0, 0]
+				},
+				"head": {
+					"rotation": [15, 0, 0]
+				},
+				"pupil": {
+					"position": [0, 0.25, 0]
+				},
+				"eyelidL": {
+					"rotation": [7.5, 0, 0]
+				},
+				"pupil2": {
+					"position": [0, 0.25, 0]
+				},
+				"eyelidR": {
+					"rotation": [7.5, 0, 0]
+				},
+				"jaw": {
+					"rotation": [-5, 0, 0]
+				},
+				"armR": {
+					"rotation": [-7.4248, -31.73697, 15.48347]
+				},
+				"lower": {
+					"rotation": [-25, 0, 0]
+				},
+				"hand": {
+					"rotation": [-17.5, 0, 0]
+				},
+				"armL": {
+					"rotation": [7.4248, -31.73697, -15.48347]
+				},
+				"lower5": {
+					"rotation": [25, 0, 0]
+				},
+				"hand3": {
+					"rotation": [17.5, 0, 0]
+				},
+				"legR": {
+					"rotation": [-12.5, 20, 0]
+				},
+				"lower3": {
+					"rotation": [12.5, 0, 0]
+				},
+				"foot3": {
+					"rotation": [0, 12.5, 0]
+				},
+				"legL": {
+					"rotation": [-12.5, -20, 0]
+				},
+				"lower4": {
+					"rotation": [12.5, 0, 0]
+				},
+				"foot2": {
+					"rotation": [0, -12.5, 0]
+				}
+			}
+		}
+	}
+}
